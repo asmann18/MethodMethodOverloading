@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\bin\Debug\net6.0\MethodMethodOverload.exe
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\bin\Debug\net6.0\MethodMethodOverload.deps.json
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\bin\Debug\net6.0\MethodMethodOverload.runtimeconfig.json
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\bin\Debug\net6.0\MethodMethodOverload.dll
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\bin\Debug\net6.0\MethodMethodOverload.pdb
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.dll
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\refint\MethodMethodOverload.dll
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.pdb
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\MethodMethodOverload.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MethodMethodOverload\MethodMethodOverload\obj\Debug\net6.0\ref\MethodMethodOverload.dll
